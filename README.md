@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 | [0393-utf-8-validation](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0393-utf-8-validation) |
 | [0427-construct-quad-tree](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0427-construct-quad-tree) |
 | [0724-find-pivot-index](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0724-find-pivot-index) |
@@ -74,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0326-power-of-three) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
