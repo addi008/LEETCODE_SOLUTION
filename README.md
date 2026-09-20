@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
@@ -89,4 +90,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
