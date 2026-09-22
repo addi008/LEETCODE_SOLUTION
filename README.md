@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0299-bulls-and-cows) |
+| [3483-unique-3-digit-even-numbers](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0393-utf-8-validation) |
 | [0427-construct-quad-tree](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0427-construct-quad-tree) |
 | [0724-find-pivot-index](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0724-find-pivot-index) |
+| [3483-unique-3-digit-even-numbers](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3525-find-x-value-of-array-ii) |
 ## Bit Manipulation
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0326-power-of-three) |
+| [3483-unique-3-digit-even-numbers](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3525-find-x-value-of-array-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
