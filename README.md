@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
+| [0313-super-ugly-number](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0313-super-ugly-number) |
 | [0393-utf-8-validation](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0393-utf-8-validation) |
 | [0427-construct-quad-tree](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0427-construct-quad-tree) |
 | [0724-find-pivot-index](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0724-find-pivot-index) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0326-power-of-three) |
 | [0836-rectangle-overlap](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0836-rectangle-overlap) |
 | [3524-find-x-value-of-array-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3524-find-x-value-of-array-i) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
+| [0313-super-ugly-number](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0313-super-ugly-number) |
 | [3524-find-x-value-of-array-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3524-find-x-value-of-array-i) |
 ## Longest Increasing Subsequence
 |  |
