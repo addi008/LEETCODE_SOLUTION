@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0393-utf-8-validation) |
 | [0427-construct-quad-tree](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0427-construct-quad-tree) |
 | [0724-find-pivot-index](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0835-image-overlap) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3524-find-x-value-of-array-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0427-construct-quad-tree](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0427-construct-quad-tree) |
+| [0835-image-overlap](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0835-image-overlap) |
 ## Prefix Sum
 |  |
 | ------- |
