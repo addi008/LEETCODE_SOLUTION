@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0313-super-ugly-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0313-super-ugly-number) |
