@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
+| [1096-brace-expansion-ii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0583-delete-operation-for-two-strings) |
 | [0796-rotate-string](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0796-rotate-string) |
+| [1096-brace-expansion-ii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Counting
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1096-brace-expansion-ii) |
 ## Design
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## String Matching
 |  |
@@ -181,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0583-delete-operation-for-two-strings) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
