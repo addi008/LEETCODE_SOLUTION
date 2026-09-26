@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0724-find-pivot-index) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0326-power-of-three) |
 | [0836-rectangle-overlap](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0313-super-ugly-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0583-delete-operation-for-two-strings) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3524-find-x-value-of-array-i) |
 ## Longest Increasing Subsequence
 |  |
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1096-brace-expansion-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
