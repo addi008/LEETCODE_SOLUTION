@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -217,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
