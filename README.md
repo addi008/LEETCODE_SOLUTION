@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1189-maximum-number-of-balloons) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0427-construct-quad-tree) |
 | [0724-find-pivot-index](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0835-image-overlap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0313-super-ugly-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0583-delete-operation-for-two-strings) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3524-find-x-value-of-array-i) |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Queue
 |  |
