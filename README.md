@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1096-brace-expansion-ii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Design
 |  |
 | ------- |
@@ -222,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3498-reverse-degree-of-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Graph Theory
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
