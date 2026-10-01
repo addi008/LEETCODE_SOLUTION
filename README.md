@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
 ## Tree
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2029-stone-game-ix](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3483-unique-3-digit-even-numbers) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2029-stone-game-ix](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
 | [3524-find-x-value-of-array-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -165,14 +168,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0292-nim-game) |
+| [2029-stone-game-ix](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0292-nim-game) |
+| [2029-stone-game-ix](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0292-nim-game) |
+| [2029-stone-game-ix](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
 ## Impartial Game
 |  |
 | ------- |
@@ -194,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2029-stone-game-ix](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
@@ -256,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
