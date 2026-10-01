@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3524-find-x-value-of-array-i) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
