@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0326-power-of-three) |
 | [0836-rectangle-overlap](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1510-stone-game-iv](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2029-stone-game-ix](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
 | [3524-find-x-value-of-array-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3524-find-x-value-of-array-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0313-super-ugly-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0583-delete-operation-for-two-strings) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1510-stone-game-iv](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -178,16 +180,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0292-nim-game) |
+| [1510-stone-game-iv](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0292-nim-game) |
+| [1510-stone-game-iv](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0292-nim-game) |
+| [1510-stone-game-iv](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
 ## Impartial Game
 |  |
@@ -281,5 +286,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1510-stone-game-iv](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
