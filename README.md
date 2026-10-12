@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1306-jump-game-iii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1096-brace-expansion-ii) |
+| [1306-jump-game-iii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Design
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0427-construct-quad-tree) |
 | [0724-find-pivot-index](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0835-image-overlap) |
+| [1306-jump-game-iii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1306-jump-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
