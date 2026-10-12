@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3161-block-placement-queries](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3161-block-placement-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3524-find-x-value-of-array-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3161-block-placement-queries](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3161-block-placement-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3161-block-placement-queries](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3161-block-placement-queries) |
 | [3525-find-x-value-of-array-ii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
@@ -345,4 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3161-block-placement-queries) |
+## Ordered Set
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
