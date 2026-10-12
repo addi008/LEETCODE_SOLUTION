@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0313-super-ugly-number) |
 | [0393-utf-8-validation](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0393-utf-8-validation) |
 | [0427-construct-quad-tree](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0427-construct-quad-tree) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0724-find-pivot-index](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0835-image-overlap) |
 | [1306-jump-game-iii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1306-jump-game-iii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0326-power-of-three) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1510-stone-game-iv) |
