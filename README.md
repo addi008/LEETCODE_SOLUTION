@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3483-unique-3-digit-even-numbers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3161-block-placement-queries](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3161-block-placement-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String Matching
