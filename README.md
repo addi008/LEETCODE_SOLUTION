@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0835-image-overlap) |
 | [1306-jump-game-iii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1306-jump-game-iii) |
+| [1406-stone-game-iii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1406-stone-game-iii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0313-super-ugly-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0678-valid-parenthesis-string) |
+| [1406-stone-game-iii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -232,12 +235,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0292-nim-game) |
+| [1406-stone-game-iii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0292-nim-game) |
+| [1406-stone-game-iii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -371,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
