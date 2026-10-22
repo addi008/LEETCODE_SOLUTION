@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3903-smallest-stable-index-i) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3886-sum-of-sortable-integers) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3886-sum-of-sortable-integers) |
 ## String Matching
 |  |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0054-spiral-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3498-reverse-degree-of-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2540-minimum-common-value) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -387,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
