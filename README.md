@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0835-image-overlap) |
 | [0930-binary-subarrays-with-sum](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0930-binary-subarrays-with-sum) |
+| [1260-shift-2d-grid](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1306-jump-game-iii) |
 | [1406-stone-game-iii](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0054-spiral-matrix) |
 | [0427-construct-quad-tree](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0427-construct-quad-tree) |
 | [0835-image-overlap](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0835-image-overlap) |
+| [1260-shift-2d-grid](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/1260-shift-2d-grid) |
 | [3498-reverse-degree-of-a-string](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/addi008/LEETCODE_SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
